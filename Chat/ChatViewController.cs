@@ -277,8 +277,8 @@ namespace Chat
 			};
 
 			IFirebaseConfig config = new FirebaseConfig {
-				AuthSecret = "TsBQjlkc5JaCYuKiuAZ8jMgMz13sKix4xs7f29fx",
-				BasePath = "https://faheemchat.firebaseio.com/"
+				AuthSecret = "*************",
+				BasePath = "https://ur_app_.firebaseio.com/"
 			};
 			IFirebaseClient client = new FirebaseClient (config);
 
