@@ -19,12 +19,11 @@ namespace Chat
 		static void Main (string[] args)
 		{
 			IFirebaseConfig config = new FirebaseConfig {
-				AuthSecret = "TsBQjlkc5JaCYuKiuAZ8jMgMz13sKix4xs7f29fx",
-				BasePath = "https://faheemchat.firebaseio.com/"
+				AuthSecret = "************",
+				BasePath = "https://your_app.firebaseio.com/"
 			};
+			
 			IFirebaseClient client = new FirebaseClient (config);
-
-			     
 
 			// if you want to use a different Application Delegate class from "AppDelegate"
 			// you can specify it here.
