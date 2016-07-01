@@ -55,5 +55,5 @@ Faheem Unnisa- <faheem.fu@gmail.com>
 
 
 
- [1]:https://github.com/faheema/Chat_IOS_Xamarin/blob/master/img/img.png
+ [1]:https://github.com/faheema/Chat_IOS_Xamarin/blob/master/img.png
  
