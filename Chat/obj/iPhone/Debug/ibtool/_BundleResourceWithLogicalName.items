@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/ibtool/LaunchScreen.nib">
+      <LogicalName>LaunchScreen.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/Info.plist">
+      <LogicalName>MainStoryboard.storyboardc/Info.plist</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib">
+      <LogicalName>MainStoryboard.storyboardc/UIViewController-vXZ-lx-hvc.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj/iPhone/Debug/ibtool/MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib">
+      <LogicalName>MainStoryboard.storyboardc/vXZ-lx-hvc-view-kh9-bI-dsS.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

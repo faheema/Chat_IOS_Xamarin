@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Chat/Chat.csproj">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/9.8.1.4/lib/mono/2.1/Xamarin.iOS.Common.targets" Line="692" Column="78" />
+      <File FileName="Chat/Entitlements.plist" />
+      <File FileName="Chat/Info.plist" />
+      <File FileName="Chat/Main.cs" Line="1" Column="1" />
+      <File FileName="Chat/ChatViewController.cs" Line="14" Column="52" />
+      <File FileName="Chat/ChatSource.cs" Line="1" Column="1" />
+      <File FileName="Chat/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Chat/Model/Message.cs" Line="1" Column="1" />
+      <File FileName="Chat/Model/MessageType.cs" Line="1" Column="1" />
+      <File FileName="Chat/ChatInput/ChatInputView.cs" Line="1" Column="1" />
+      <File FileName="Chat/Cells/BubbleCell.cs" Line="1" Column="1" />
+      <File FileName="Chat/Cells/IncomingCell.cs" Line="1" Column="1" />
+      <File FileName="Chat/Cells/OutgoingCell.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Chat" expanded="True">
+            <Node name="Chat" expanded="True" selected="True">
+              <Node name="Cells" expanded="True" />
+              <Node name="ChatInput" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Resources" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Chat PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+</Properties>
