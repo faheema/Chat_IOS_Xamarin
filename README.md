@@ -22,7 +22,7 @@ This sample runnable on iPhoneSimulator/iPadSimulator iPhone/iPad
  License
 -----------
 
-    Copyright 2015 Faheem Unnisa
+    Copyright 2018 Faheem Unnisa
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
